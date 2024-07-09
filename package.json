@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "author": "Siddarthan",
+  "author-name": "Siddarthan",
   "reg-no": "212221040154",
   "scripts": {
     "start": "node src/server.js",
